@@ -2,10 +2,10 @@
 This is a small app that basically takes in two locations - starting point &amp; a destination, then giving the user the following options:  * - Give the shortest route between the two (distance wise).  * - Show all possible routes between the two.  * - Give the quickest route between the two (time wise).     *   *A database of other routes may be brought in therefore having a greater possibility of user location inputs!
 
 ## Intro:
--**Project Name**: Road Route Finder - GPS Alternative to find the Quickest/Shortest Routes.
--**Version**: 1.0
--**Module**: Data Structures and Algorithms
--**Student Name(s)**: Lee Mahoney & Loti Ibrahimi (IOT)
+- **Project Name**: Road Route Finder - GPS Alternative to find the Quickest/Shortest Routes.
+- **Version**: 1.0
+- **Module**: Data Structures and Algorithms
+- **Student Name(s)**: Lee Mahoney & Loti Ibrahimi (IOT)
 
 
 ## Description:
